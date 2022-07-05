@@ -255,6 +255,8 @@ yargs.command({
 // console.log(yargs.argv)
 yargs.parse()
 
+console.log('tessssssssssst')
+
 /////////////////////////////////////////////////////////////////////////////
 
 // terminal --> git init
